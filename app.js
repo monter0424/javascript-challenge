@@ -69,8 +69,6 @@ var submit = d3.select("#filter-btn");
 //     });
 // });
 
-// --- WORKING CODE (DRAFT) ----
-
 // ----FINAL CODE---- 
 
 // Filter Form 
